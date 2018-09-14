@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://ourlaska.github.io"
+title = "Ourlaska"
+author = "The Librarian"
+copyright = "Powered by the [Newsprint Theme](https://themes.gohugo.io/newsprint/) for [Hugo](https://gohugo.io/)"
+canonifyurls = true
+paginate = 3
+theme = "newsprint"
+[params]
+
+subtitle = "Two years of adventures in Alaska"
